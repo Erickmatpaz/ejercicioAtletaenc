@@ -1,12 +1,3 @@
-/*
-Un atleta ha completado un triatlón compuesto por natación, ciclismo y carrera.
-El tiempo de cada actividad es ingresado por el usuario en minutos. 
-El sistema debe determinar el nivel del atleta según las siguientes reglas:
-Tiempo total menor o igual a 100 minutos: Nivel Excelente
-Tiempo total entre 101 y 140 minutos: Nivel Bueno
-Tiempo total entre 141 y 180 minutos: Nivel Regular
-Tiempo total mayor a 180 minutos: Fuera de tiempo
-*/
 #include <stdio.h>
 
 int main() {
